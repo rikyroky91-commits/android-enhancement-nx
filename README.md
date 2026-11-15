@@ -1,4 +1,4 @@
-# 🎮 Switch OLED Android Tweaks — making LineageOS on the Nintendo Switch feel like a finished handheld
+# 🎮 Android Enhancement NX — making Android on the Nintendo Switch (NX) feel like a finished handheld
 
 ![LineageOS](https://img.shields.io/badge/LineageOS-22.2%20(Android%2015)-167C80) ![Magisk](https://img.shields.io/badge/root-Magisk%20service.d-00AF9C) ![C](https://img.shields.io/badge/C-aarch64%20static-A8B9CC) ![Shell](https://img.shields.io/badge/sh-toybox%20%2F%20busybox-4EAA25)
 
@@ -24,7 +24,7 @@ and was tested on the console.
 ### Try it
 Requirements: Switch with Switchroot LineageOS 22.2 (nx_tab), Magisk root, `adb` on a PC.
 1. Download the prebuilt binaries and the tiles APK from the
-   [latest release](https://github.com/rikyroky91-commits/switch-oled-android/releases/latest), or build them
+   [latest release](https://github.com/rikyroky91-commits/android-enhancement-nx/releases/latest), or build them
    (static aarch64, e.g. `zig cc -target aarch64-linux-musl -static -O2 gyromouse.c -o gyromouse`).
 2. Copy the binaries to `/data/adb/gyromouse/` and the `*.sh` services you want to `/data/adb/service.d/`
    (`chmod 755`), then reboot. Each script starts with a comment describing what it does and its settings.
