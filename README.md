@@ -8,8 +8,11 @@ Wi-Fi drops while streaming, battery drain in standby, a "ghost" external displa
 Every fix started from a real bug on real hardware, was traced to its root cause in logs and kernel sources,
 and was tested on the console.
 
-<p align="center"><img src="docs/img/riquadri-rapidi.png" width="420" alt="Riquadri Switch tiles in Quick Settings: hibernation, OLED colour mode, gyro sensitivity, gyro mode and overclock"><br>
-<sub>The <b>Riquadri Switch</b> tiles running on the console: hibernation, OLED colour mode, gyro mode and sensitivity, overclock.</sub></p>
+| Quick Settings tiles | Live temperatures | Gyro and overclock status |
+|---|---|---|
+| <img src="docs/img/riquadri-rapidi.png" alt="Riquadri Switch tiles: hibernation, OLED colour mode, gyro sensitivity, gyro mode, overclock"> | <img src="docs/img/notifica-temperature.png" alt="Ongoing notification with CPU, GPU, battery and screen temperatures and fan speed"> | <img src="docs/img/app-stato-gyro.png" alt="Riquadri Switch app: root check, overclock clocks, gyro mode and mouse and stick sensitivity"> |
+
+<sub>All captured on the console (Switch OLED, LineageOS 22.2): the tiles drive the gyro service (mouse → right stick → off, sensitivity ±25%), the overclock and hibernation; the notification reads CPU, GPU, battery, screen and fan in real time.</sub>
 
 ### What's inside
 | Folder | What it fixes / adds |
