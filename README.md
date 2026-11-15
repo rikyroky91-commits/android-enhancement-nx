@@ -8,6 +8,9 @@ Wi-Fi drops while streaming, battery drain in standby, a "ghost" external displa
 Every fix started from a real bug on real hardware, was traced to its root cause in logs and kernel sources,
 and was tested on the console.
 
+<p align="center"><img src="docs/img/riquadri-rapidi.png" width="420" alt="Riquadri Switch tiles in Quick Settings: hibernation, OLED colour mode, gyro sensitivity, gyro mode and overclock"><br>
+<sub>The <b>Riquadri Switch</b> tiles running on the console: hibernation, OLED colour mode, gyro mode and sensitivity, overclock.</sub></p>
+
 ### What's inside
 | Folder | What it fixes / adds |
 |---|---|
