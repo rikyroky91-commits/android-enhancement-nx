@@ -1,0 +1,66 @@
+    <int name="InputMapping_HostAxis_96" value="700" />
+    <string name="button_a">Nintendo Switch Combined Joy-Cons: Button A</string>
+    <string name="InputMapping_ReverseMapping_button_a">InputMapping_HostAxis_96</string>
+    <int name="InputMapping_HostAxis_97" value="701" />
+    <string name="button_b">Nintendo Switch Combined Joy-Cons: Button B</string>
+    <string name="InputMapping_ReverseMapping_button_b">InputMapping_HostAxis_97</string>
+    <int name="InputMapping_HostAxis_99" value="702" />
+    <string name="button_x">Nintendo Switch Combined Joy-Cons: Button X</string>
+    <string name="InputMapping_ReverseMapping_button_x">InputMapping_HostAxis_99</string>
+    <int name="InputMapping_HostAxis_100" value="703" />
+    <string name="button_y">Nintendo Switch Combined Joy-Cons: Button Y</string>
+    <string name="InputMapping_ReverseMapping_button_y">InputMapping_HostAxis_100</string>
+    <int name="InputMapping_HostAxis_102" value="773" />
+    <string name="button_l">Nintendo Switch Combined Joy-Cons: Button L1</string>
+    <string name="InputMapping_ReverseMapping_button_l">InputMapping_HostAxis_102</string>
+    <int name="InputMapping_HostAxis_103" value="774" />
+    <string name="button_r">Nintendo Switch Combined Joy-Cons: Button R1</string>
+    <string name="InputMapping_ReverseMapping_button_r">InputMapping_HostAxis_103</string>
+    <int name="InputMapping_HostAxis_104" value="707" />
+    <int name="InputMapping_HostAxis_105" value="708" />
+    <int name="InputMapping_HostAxis_17_GuestOrientation" value="0" />
+    <int name="InputMapping_HostAxis_17_GuestButton" value="707" />
+    <boolean name="InputMapping_HostAxis_17_Inverted" value="false" />
+    <string name="button_zl">Axis 17+</string>
+    <string name="InputMapping_ReverseMapping_button_zl">InputMapping_HostAxis_17</string>
+    <int name="InputMapping_HostAxis_18_GuestOrientation" value="0" />
+    <int name="InputMapping_HostAxis_18_GuestButton" value="708" />
+    <boolean name="InputMapping_HostAxis_18_Inverted" value="false" />
+    <string name="button_zr">Axis 18+</string>
+    <string name="InputMapping_ReverseMapping_button_zr">InputMapping_HostAxis_18</string>
+    <int name="InputMapping_HostAxis_108" value="704" />
+    <string name="button_start">Nintendo Switch Combined Joy-Cons: Button Start</string>
+    <string name="InputMapping_ReverseMapping_button_start">InputMapping_HostAxis_108</string>
+    <int name="InputMapping_HostAxis_109" value="705" />
+    <string name="button_select">Nintendo Switch Combined Joy-Cons: Button Select</string>
+    <string name="InputMapping_ReverseMapping_button_select">InputMapping_HostAxis_109</string>
+    <int name="InputMapping_HostAxis_0_GuestOrientation" value="0" />
+    <int name="InputMapping_HostAxis_0_GuestButton" value="713" />
+    <boolean name="InputMapping_HostAxis_0_Inverted" value="false" />
+    <string name="circlepad_axis_horizontal">Axis 0+</string>
+    <string name="InputMapping_ReverseMapping_circlepad_axis_horizontal_0">InputMapping_HostAxis_0</string>
+    <int name="InputMapping_HostAxis_1_GuestOrientation" value="1" />
+    <int name="InputMapping_HostAxis_1_GuestButton" value="713" />
+    <boolean name="InputMapping_HostAxis_1_Inverted" value="false" />
+    <string name="circlepad_axis_vertical">Axis 1-</string>
+    <string name="InputMapping_ReverseMapping_circlepad_axis_vertical_1">InputMapping_HostAxis_1</string>
+    <int name="InputMapping_HostAxis_11_GuestOrientation" value="0" />
+    <int name="InputMapping_HostAxis_11_GuestButton" value="718" />
+    <boolean name="InputMapping_HostAxis_11_Inverted" value="false" />
+    <string name="cstick_axis_horizontal">Axis 11+</string>
+    <string name="InputMapping_ReverseMapping_cstick_axis_horizontal_0">InputMapping_HostAxis_11</string>
+    <int name="InputMapping_HostAxis_14_GuestOrientation" value="1" />
+    <int name="InputMapping_HostAxis_14_GuestButton" value="718" />
+    <boolean name="InputMapping_HostAxis_14_Inverted" value="false" />
+    <string name="cstick_axis_vertical">Axis 14-</string>
+    <string name="InputMapping_ReverseMapping_cstick_axis_vertical_1">InputMapping_HostAxis_14</string>
+    <int name="InputMapping_HostAxis_15_GuestOrientation" value="0" />
+    <int name="InputMapping_HostAxis_15_GuestButton" value="780" />
+    <boolean name="InputMapping_HostAxis_15_Inverted" value="false" />
+    <string name="dpad_axis_horizontal">Axis 15+</string>
+    <string name="InputMapping_ReverseMapping_dpad_axis_horizontal_0">InputMapping_HostAxis_15</string>
+    <int name="InputMapping_HostAxis_16_GuestOrientation" value="1" />
+    <int name="InputMapping_HostAxis_16_GuestButton" value="780" />
+    <boolean name="InputMapping_HostAxis_16_Inverted" value="false" />
+    <string name="dpad_axis_vertical">Axis 16-</string>
+    <string name="InputMapping_ReverseMapping_dpad_axis_vertical_1">InputMapping_HostAxis_16</string>
